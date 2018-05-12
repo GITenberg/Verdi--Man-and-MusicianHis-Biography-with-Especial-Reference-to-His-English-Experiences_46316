@@ -1,0 +1,30 @@
+_repo: Verdi--Man-and-MusicianHis-Biography-with-Especial-Reference-to-His-English-Experiences_46316
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crowest, Frederick James
+    birthdate: 1850
+    deathdate: 1927
+    gutenberg_agent_id: '40933'
+    url: http://www.gutenberg.org/2009/agents/40933
+description: ''
+gutenberg_issued: '2014-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46316'
+  lccn: '03017444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verdi, Giuseppe, 1813-1901'
+- !lcc 'ML'
+- !lcsh 'Composers -- Italy -- Biography'
+title: 'Verdi: Man and Musician
+
+  His Biography with Especial Reference to His English Experiences'
+url: http://www.gutenberg.org/ebooks/46316
